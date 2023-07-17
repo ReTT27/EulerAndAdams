@@ -1,0 +1,44 @@
+C:\Users\Иван\Desktop\Euler&Adams\EulerAndAdams\bin\Debug\EulerAndAdams.exe.config
+C:\Users\Иван\Desktop\Euler&Adams\EulerAndAdams\bin\Debug\EulerAndAdams.exe
+C:\Users\Иван\Desktop\Euler&Adams\EulerAndAdams\bin\Debug\EulerAndAdams.pdb
+C:\Users\Иван\Desktop\Euler&Adams\EulerAndAdams\obj\Debug\EulerAndAdams.csproj.AssemblyReference.cache
+C:\Users\Иван\Desktop\Euler&Adams\EulerAndAdams\obj\Debug\EulerAndAdams.csproj.SuggestedBindingRedirects.cache
+C:\Users\Иван\Desktop\Euler&Adams\EulerAndAdams\obj\Debug\EulerAndAdams.Form1.resources
+C:\Users\Иван\Desktop\Euler&Adams\EulerAndAdams\obj\Debug\EulerAndAdams.Properties.Resources.resources
+C:\Users\Иван\Desktop\Euler&Adams\EulerAndAdams\obj\Debug\EulerAndAdams.csproj.GenerateResource.cache
+C:\Users\Иван\Desktop\Euler&Adams\EulerAndAdams\obj\Debug\EulerAndAdams.csproj.CoreCompileInputs.cache
+C:\Users\Иван\Desktop\Euler&Adams\EulerAndAdams\obj\Debug\EulerAndAdams.exe
+C:\Users\Иван\Desktop\Euler&Adams\EulerAndAdams\obj\Debug\EulerAndAdams.pdb
+C:\Users\ivans\Desktop\Euler&Adams\EulerAndAdams\bin\Debug\EulerAndAdams.exe.config
+C:\Users\ivans\Desktop\Euler&Adams\EulerAndAdams\bin\Debug\EulerAndAdams.exe
+C:\Users\ivans\Desktop\Euler&Adams\EulerAndAdams\bin\Debug\EulerAndAdams.pdb
+C:\Users\ivans\Desktop\Euler&Adams\EulerAndAdams\obj\Debug\EulerAndAdams.csproj.AssemblyReference.cache
+C:\Users\ivans\Desktop\Euler&Adams\EulerAndAdams\obj\Debug\EulerAndAdams.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivans\Desktop\Euler&Adams\EulerAndAdams\obj\Debug\EulerAndAdams.Form1.resources
+C:\Users\ivans\Desktop\Euler&Adams\EulerAndAdams\obj\Debug\EulerAndAdams.Properties.Resources.resources
+C:\Users\ivans\Desktop\Euler&Adams\EulerAndAdams\obj\Debug\EulerAndAdams.csproj.GenerateResource.cache
+C:\Users\ivans\Desktop\Euler&Adams\EulerAndAdams\obj\Debug\EulerAndAdams.csproj.CoreCompileInputs.cache
+C:\Users\ivans\Desktop\Euler&Adams\EulerAndAdams\obj\Debug\EulerAndAdams.exe
+C:\Users\ivans\Desktop\Euler&Adams\EulerAndAdams\obj\Debug\EulerAndAdams.pdb
+C:\Users\ivans\Desktop\Euler&Adams  new\EulerAndAdams\bin\Debug\EulerAndAdams.exe.config
+C:\Users\ivans\Desktop\Euler&Adams  new\EulerAndAdams\bin\Debug\EulerAndAdams.exe
+C:\Users\ivans\Desktop\Euler&Adams  new\EulerAndAdams\bin\Debug\EulerAndAdams.pdb
+C:\Users\ivans\Desktop\Euler&Adams  new\EulerAndAdams\obj\Debug\EulerAndAdams.csproj.AssemblyReference.cache
+C:\Users\ivans\Desktop\Euler&Adams  new\EulerAndAdams\obj\Debug\EulerAndAdams.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivans\Desktop\Euler&Adams  new\EulerAndAdams\obj\Debug\EulerAndAdams.Form1.resources
+C:\Users\ivans\Desktop\Euler&Adams  new\EulerAndAdams\obj\Debug\EulerAndAdams.Properties.Resources.resources
+C:\Users\ivans\Desktop\Euler&Adams  new\EulerAndAdams\obj\Debug\EulerAndAdams.csproj.GenerateResource.cache
+C:\Users\ivans\Desktop\Euler&Adams  new\EulerAndAdams\obj\Debug\EulerAndAdams.csproj.CoreCompileInputs.cache
+C:\Users\ivans\Desktop\Euler&Adams  new\EulerAndAdams\obj\Debug\EulerAndAdams.exe
+C:\Users\ivans\Desktop\Euler&Adams  new\EulerAndAdams\obj\Debug\EulerAndAdams.pdb
+C:\Users\Иван\Desktop\Euler&Adams  new\EulerAndAdams\bin\Debug\EulerAndAdams.exe.config
+C:\Users\Иван\Desktop\Euler&Adams  new\EulerAndAdams\bin\Debug\EulerAndAdams.exe
+C:\Users\Иван\Desktop\Euler&Adams  new\EulerAndAdams\bin\Debug\EulerAndAdams.pdb
+C:\Users\Иван\Desktop\Euler&Adams  new\EulerAndAdams\obj\Debug\EulerAndAdams.csproj.AssemblyReference.cache
+C:\Users\Иван\Desktop\Euler&Adams  new\EulerAndAdams\obj\Debug\EulerAndAdams.csproj.SuggestedBindingRedirects.cache
+C:\Users\Иван\Desktop\Euler&Adams  new\EulerAndAdams\obj\Debug\EulerAndAdams.Form1.resources
+C:\Users\Иван\Desktop\Euler&Adams  new\EulerAndAdams\obj\Debug\EulerAndAdams.Properties.Resources.resources
+C:\Users\Иван\Desktop\Euler&Adams  new\EulerAndAdams\obj\Debug\EulerAndAdams.csproj.GenerateResource.cache
+C:\Users\Иван\Desktop\Euler&Adams  new\EulerAndAdams\obj\Debug\EulerAndAdams.csproj.CoreCompileInputs.cache
+C:\Users\Иван\Desktop\Euler&Adams  new\EulerAndAdams\obj\Debug\EulerAndAdams.exe
+C:\Users\Иван\Desktop\Euler&Adams  new\EulerAndAdams\obj\Debug\EulerAndAdams.pdb
